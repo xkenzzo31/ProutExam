@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "602981601329",
+    "firebase_url": "https://examprout.firebaseio.com",
+    "project_id": "examprout",
+    "storage_bucket": "examprout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602981601329:android:90819475973e8d20",
+        "android_client_info": {
+          "package_name": "com.example.proutoman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602981601329-cfc8sk95b3iiki93orbv9h0epigibq9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1wRhUqJnhxFB6wnZ2FcnkC_Deys1mvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
